@@ -38,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "alechoskinshosting@gmail.com",
-    "ACTIVE_CLOUD_PROJECT_ID": "skilltree-lpg-backend",
-    "ACTIVE_CLOUD_PROJECT_NAME": "skilltree-lpg-backend",
-    "ACTIVE_CLOUD_PROJECT_NUMBER": "1014893112468",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20230402_0001",
-    "last_opened_file_path": "E:/WebDev/Projects/Skill_Tree_LPG/myapp/pom.xml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;alechoskinshosting@gmail.com&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;skilltree-lpg-backend&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;skilltree-lpg-backend&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;1014893112468&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20230402_0001&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/WebDev/Projects/Skill_Tree_LPG/myapp/pom.xml&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Java Scratch.scratch">
     <configuration name="scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scratch" />
